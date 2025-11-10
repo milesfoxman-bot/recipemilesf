@@ -1,0 +1,48 @@
+body {background-color: black;}
+
+
+
+h1, h2, h3,  h4 {
+  color: whitesmoke;
+}
+
+ h3,  h4 {
+  color: beige;
+}
+
+
+
+.container {
+  display: flex;
+  background-color: black;
+}
+
+.container div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 24px;
+}
+
+div.a {
+  text-align: center;
+}
+
+div.b {
+  text-align: left;
+}
+
+div.c {
+  text-align: right;
+}
+
+div.d {
+  text-align: justify;
+}
+
+
+p.a {
+  font-family: "Times New Roman", Times, serif;
+}
+
+
